@@ -1,0 +1,6 @@
+/*!
+ * api-dribble
+ * Api Dribble
+ * @license undefined
+ * v1.0.0
+ */@import url(/vendor/bootstrap/3.3.5/bootstrap.min.css);@import url(/vendor/angular-material/1.1.0/angular-material.min.css);body{background-color:#f4f4f4;padding-top:64px}.navbar{border-radius:0}.geral{background-color:#fff;padding:15px;border:1px solid #ccc;border-radius:6px}md-divider{margin:12px 0}.info{overflow:hidden}.info img{border:1px solid #ccc;border-radius:50%;height:75px;padding:3px;width:75px}.info__user-name{font-size:24px;font-weight:300;margin:6px 12px}.info__user-location{display:block;font-size:12px;margin:0 12px}md-card-content{margin-top:-44px;background-color:rgba(0,0,0,.6);color:#fff;position:relative}md-card md-card-content{padding:12px}
